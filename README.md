@@ -1,7 +1,7 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CLIMAAX/FIRE/main?labpath=FIRE_notebook.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CLIMAAX/FIRE/main?labpath=HEAVY_RAINFALL_notebook.ipynb)
 
-# FIRE
-Repository for collaboration on workflows for Fire hazard
+# HEAVY RAINFALL
+Repository for collaboration on workflows for the Heavy Rainfall hazard
 
 # How to run
 
@@ -18,18 +18,18 @@ You may also download the repository from GitHub to run it locally:
 
 3. Clone the repository
     ```bash
-    git clone git@github.com:CLIMAAX/FIRE.git
+    git clone git@github.com:CLIMAAX/HEAVY_RAINFALL.git
     ```
 
 4. Move into the cloned repository
     ```bash
-    cd FIRE
+    cd HEAVY_RAINFALL
     ```
 
 5. Create and activate your environment from the `environment.yml` file
     ```bash
     conda env create -f environment.yml
-    conda activate climaax_fire
+    conda activate climaax_heavy_rainfall
     ```  
 
 6. Launch the jupyter interface of your preference, notebook, `jupyter notebook` or lab `jupyter lab`
