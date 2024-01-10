@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CLIMAAX/FIRE/main?labpath=HEAVY_RAINFALL_notebook.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CLIMAAX/HEAVY_RAINFALL/main?labpath=HEAVY_RAINFALL_preprocess.ipynb)
 
 # HEAVY RAINFALL
 Repository for collaboration on workflows for the Heavy Rainfall hazard
