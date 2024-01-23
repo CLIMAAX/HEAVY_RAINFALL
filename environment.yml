@@ -32,6 +32,7 @@ dependencies:
         - cdsapi
         - plotly
         - pytest
+        - contextily
         - pip:
             - netcdf4
             - damagescanner
