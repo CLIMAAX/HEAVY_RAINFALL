@@ -1,4 +1,4 @@
-name: climaax_heavy_rainfall
+name: climaax_extreme_precipitation
 
 channels:
     - conda-forge
@@ -6,34 +6,24 @@ channels:
 dependencies:
         - python=3.11
         - gdal
-        - numpy
-        - geopandas
-        - rasterio
-        - matplotlib
-        - tqdm
         - pip
         - jupyterlab
-        - xlrd
-        - pyproj
+        - ipywidgets
+        - leafmap
+        - netCDF4
+        - dask
         - xarray
         - rioxarray
-        - osmnx
-        - leafmap
-        - eccodes
-        - earthkit-data
-        - cfgrib
-        - scipy
         - cartopy
-        - pandas
-        - ipywidgets
-        - ipympl
-        - dask
-        - nbmake
+        - scipy
+        - rasterio
+        - numpy
         - cdsapi
         - plotly
-        - pytest
         - contextily
         - pip:
-            - netcdf4
             - damagescanner
             - jupyterlab_myst
+            - localtileserver[colormaps,jupyter,helpers]==0.7.2
+            - shapely
+            - rio-cogeo

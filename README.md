@@ -1,7 +1,8 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CLIMAAX/HEAVY_RAINFALL/main?labpath=HEAVY_RAINFALL_preprocess.ipynb)
+Click [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CLIMAAX/HEAVY_RAINFALL/main?labpath=EXTREME_PRECIPITATION.ipynb) to launch the visualization notebook on MyBinder.<br>
+Click [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CLIMAAX/HEAVY_RAINFALL/main?labpath=EXTREME_PRECIPITATION_preprocess.ipynb) to launch the preprocess notebook on MyBinder.
 
-# HEAVY RAINFALL
-Repository for collaboration on workflows for the Heavy Rainfall hazard
+# EXTREME PRECIPITATION
+Repository for collaboration on workflows for the Extreme precipitation hazard
 
 # How to run
 
@@ -29,7 +30,7 @@ You may also download the repository from GitHub to run it locally:
 5. Create and activate your environment from the `environment.yml` file
     ```bash
     conda env create -f environment.yml
-    conda activate climaax_heavy_rainfall
+    conda activate climaax_extreme_precipitation
     ```  
 
 6. Launch the jupyter interface of your preference, notebook, `jupyter notebook` or lab `jupyter lab`
