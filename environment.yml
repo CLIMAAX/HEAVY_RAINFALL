@@ -21,6 +21,7 @@ dependencies:
         - cdsapi
         - plotly
         - contextily
+        - osmnx
         - pip:
             - damagescanner
             - jupyterlab_myst
