@@ -6,7 +6,8 @@ The following workflow focuses on presenting these changes in precipitation for 
 For this analysis, EURO-CORDEX climate projections for precipitation flux at a 12km spatial resolution have been employed. These projections are readily accessible to the public through the Climate Data Store portal.
 
 In this section you will find:
-1. Guidance on how to use the workflow for assessing the changes in critical impact rainfall thresholds within the context of risk assessment and climate change.
+1. Guidance on how to use the workflow for assessing the changes in critical impact rainfall thresholds within the context of climate risk assessment.
 2. An advance user section where users with technical expertise can explore an example on how the intensities and return periods are calculated for a specific Global-Regional climate model pair and RCP. We have used the Catalonia region as an example and provide text to guide you on how the code can be modified according to your research interest.
+3. Real examples on how to use the extreme precipitation workflow to carry out a regional and local risk assessment.
  
 We encourage you to explore the extreme precipitation workflow on your region!
