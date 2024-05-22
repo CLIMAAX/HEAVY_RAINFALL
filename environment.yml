@@ -8,8 +8,6 @@ dependencies:
         - gdal
         - pip
         - jupyterlab
-        - ipywidgets
-        - leafmap
         - netCDF4
         - dask
         - xarray
@@ -21,10 +19,10 @@ dependencies:
         - cdsapi
         - plotly
         - contextily
+        - geopandas
         - osmnx
         - pip:
             - damagescanner
             - jupyterlab_myst
-            - localtileserver[colormaps,jupyter,helpers]==0.7.2
             - shapely
             - rio-cogeo
