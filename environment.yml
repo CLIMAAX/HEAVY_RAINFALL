@@ -21,6 +21,7 @@ dependencies:
         - contextily
         - geopandas
         - osmnx
+        - pooch
         - pip:
             - damagescanner
             - jupyterlab_myst

@@ -1,15 +1,15 @@
-Click [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CLIMAAX/HEAVY_RAINFALL/main?labpath=EXTREME_PRECIPITATION.ipynb) to launch the visualization notebook on MyBinder.<br>
-Click [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CLIMAAX/HEAVY_RAINFALL/main?labpath=EXTREME_PRECIPITATION_preprocess.ipynb) to launch the preprocess notebook on MyBinder.
-
 # EXTREME PRECIPITATION
+
 Repository for collaboration on workflows for the Extreme precipitation hazard
+
 
 # How to run
 
 ## Running on Binder
-The notebook is designed to be launched from Binder. 
 
-Click the **Launch Binder** button at the top level of the repository
+The notebook is designed to be launched from Binder.
+
+Click [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CLIMAAX/HEAVY_RAINFALL/main) to access the repository through MyBinder.
 
 ## Running locally
 You may also download the repository from GitHub to run it locally:
@@ -31,7 +31,7 @@ You may also download the repository from GitHub to run it locally:
     ```bash
     conda env create -f environment.yml
     conda activate climaax_extreme_precipitation
-    ```  
+    ```
 
 6. Launch the jupyter interface of your preference, notebook, `jupyter notebook` or lab `jupyter lab`
 7. Edit the notebook
