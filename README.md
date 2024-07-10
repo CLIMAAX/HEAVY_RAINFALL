@@ -1,4 +1,4 @@
-# EXTREME PRECIPITATION
+# HEAVY RAINFALL
 
 Repository for collaboration on workflows for the Extreme precipitation hazard
 
@@ -30,7 +30,7 @@ You may also download the repository from GitHub to run it locally:
 5. Create and activate your environment from the `environment.yml` file
     ```bash
     conda env create -f environment.yml
-    conda activate climaax_extreme_precipitation
+    conda activate climaax_heavy_rainfall
     ```
 
 6. Launch the jupyter interface of your preference, notebook, `jupyter notebook` or lab `jupyter lab`
