@@ -257,8 +257,9 @@ Finally, the last section of the workflow “**[Extreme precipitation: Examples 
 ## Authors
 The Center of Applied Research in Hydrometeorology from the Universitat Politècnica de Catalunya (CRAHI-UPC). The members involved in the development of this section were the following:
 
-Erika R. Meléndez-Landaverde
-Daniel Sempere-Torres
+- Erika R. Meléndez-Landaverde
+
+- Daniel Sempere-Torres
 
 CRAHI would like to thank Ainara Casajús and Núria Gasulla from the Civil Protection of Catalunya for their valuable contributions during the development process of this workflow.
 
