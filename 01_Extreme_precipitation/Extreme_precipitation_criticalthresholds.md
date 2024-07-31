@@ -240,18 +240,18 @@ The combinations available are:
 4. **Future time-frames**: 2011-2040, 2041-2070, 2071-2100 (2070-2099 for *mohc-hadgem2-es*)
 5. **Durations**: 3h, 6h, 12h, 24h
 
-In this path, you will follow the steps outlined in the "**Extreme precipitation: Changes under climate scenarios workflow [Risk assessment](https://handbook.climaax.eu/notebooks/workflows/HEAVY_RAINFALL/01_Extreme_precipitation/EXTREME_PRECIPITATION_Risk_Assessment.html)**" section. You will use the pre-calculated datasets to characterise how your critical impact-based rainfall thresholds are expected to change under climate change scenarios in your area of interest. By choosing Path A, you can focus directly on assessing how these climate projections impact your identified critical thresholds and associated risks while profiting from existing data resources.
+In this path, you will follow the steps outlined in the "**Extreme precipitation: Changes under climate scenarios workflow [Risk assessment](EXTREME_PRECIPITATION_Risk_Assessment.ipynb)**" section. You will use the pre-calculated datasets to characterise how your critical impact-based rainfall thresholds are expected to change under climate change scenarios in your area of interest. By choosing Path A, you can focus directly on assessing how these climate projections impact your identified critical thresholds and associated risks while profiting from existing data resources.
 
 ### Path B: Let’s start from scratch
 
 If you prefer to customise your climate risk assessment based on specific regional assessments or national guidance, we got you covered! Here is how you should proceed:
-1. Refer to the “**[Extreme precipitation: Changes under climate scenarios workflow [Hazard assessment]](https://handbook.climaax.eu/notebooks/workflows/HEAVY_RAINFALL/01_Extreme_precipitation/EXTREME_PRECIPITATION_Hazard_Assessment.html)**” to generate your current and future rainfall datasets using the climate scenario or Global/Regional combination that best fits your regional context. The flexible steps can accommodate different datasets, allowing customisation to meet your individual needs. 
+1. Refer to the “**[Extreme precipitation: Changes under climate scenarios workflow [Hazard assessment]](EXTREME_PRECIPITATION_Hazard_Assessment.ipynb)**” to generate your current and future rainfall datasets using the climate scenario or Global/Regional combination that best fits your regional context. The flexible steps can accommodate different datasets, allowing customisation to meet your individual needs.
 
-2. Once the rainfall datasets of your area have been calculated, you can start the “**[Extreme precipitation: Changes under climate scenarios workflow [Risk assessment]](https://handbook.climaax.eu/notebooks/workflows/HEAVY_RAINFALL/01_Extreme_precipitation/EXTREME_PRECIPITATION_Risk_Assessment.html)**”. 
+2. Once the rainfall datasets of your area have been calculated, you can start the “**[Extreme precipitation: Changes under climate scenarios workflow [Risk assessment]](EXTREME_PRECIPITATION_Risk_Assessment.ipynb)**”.
 
 By opting for Path B, you can customise your climate risk assessment based on your local conditions and requirements.
 
-Finally, the last section of the workflow “**[Extreme precipitation: Examples on how to carry out a climate risk assessment](https://handbook.climaax.eu/notebooks/workflows/HEAVY_RAINFALL/01_Extreme_precipitation/EXTREME_PRECIPITATION_Risk_Assessment_examples.html)**” presents real examples of applying these steps to European regions. Feel free to explore and adapt them to your research needs!
+Finally, the last section of the workflow “**[Extreme precipitation: Examples on how to carry out a climate risk assessment](EXTREME_PRECIPITATION_Risk_Assessment_examples.ipynb)**” presents real examples of applying these steps to European regions. Feel free to explore and adapt them to your research needs!
 
 
 ## Authors
