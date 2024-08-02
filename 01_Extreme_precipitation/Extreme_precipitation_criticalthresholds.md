@@ -1,14 +1,14 @@
-# Extreme Precipitation: Local data requirements and interpretation for climate risk assessment 
+# Extreme precipitation - local data requirements and interpretation for climate risk assessment 
 
-As explained in the introduction section, the frequency and magnitude of extreme precipitation events are likely to vary under the premises of climate change scenarios. These projected changes can translate to an increase in the frequency and magnitude of pluvial floods [urban and flash floods] resulting from the precipitation intensity **exceeding the critical impact rainfall thresholds** of natural and artificial drainage systems capacities. 
+As explained in the previous section, the frequency and magnitude of extreme precipitation events are likely to vary under climate change. The projected changes under climate scenarios can translate to an increase in the frequency and magnitude of pluvial floods (urban and flash floods) resulting from the precipitation intensity **exceeding the critical impact rainfall thresholds** of natural and artificial drainage systems capacities. 
 
-The extreme precipitation workflow has been constructed to guide users, communities, and regions in understanding how their current critical impact rainfall thresholds will be affected by climate change. The following section will walk you through learning more about what are impact rainfall thresholds, the local knowledge to derive them, and a summary of the basic information needed to start executing the extreme precipitation workflow 
+The extreme precipitation workflow has been constructed to guide users, communities, and regions in understanding how their current critical impact rainfall thresholds will be affected by climate change. The following section will walk you through learning more about what are impact rainfall thresholds, how to utilize the local knowledge to derive them, and a summary of the basic information needed to assess risks using the heavy rainfall workflow. 
 
 ## What are critical impact rainfall thresholds?
 
-**Impact rainfall thresholds** are defined as the precipitation required within a specific timeframe to trigger various impacts, such as urban flooding in vulnerable areas or sites (e.g., low-lying). Additionally, these are commonly used in designing civil works like road drainage systems and flood protection infrastructure and serve as decision support values for early warning systems (Meléndez-Landaverde & Sempere-Torres, 2022). Hence, impact rainfall thresholds serve as key indicators, helping link local potential risk and its consequences to specific rainfall intensity values. 
+**Impact rainfall thresholds** are defined as the precipitation required within a specific timeframe to trigger various impacts, such as urban flooding in vulnerable areas or sites (e.g. low-lying areas). Additionally, these thresholds are commonly used in designing civilengineering works like road drainage systems and flood protection infrastructure, and serve as decision support values for early warning systems (Meléndez-Landaverde & Sempere-Torres, 2022). Hence, impact rainfall thresholds serve as key indicators, helping link local potential risk and its consequences to specific rainfall intensity values. 
 
-In this context, a **critical impact rainfall threshold** is defined as the precipitation necessary to trigger unsustainable or unacceptable impacts. As seen in figure 1, this concept is closely related to the “**risk-tolerance level**”, defined as the maximum amount of loss, impact, or frequency that areas, communities, and regions are prepared to handle due to climate hazards, or in this case, extreme precipitation. <span style="color:red">Consequently, these naturally vary across communities and sectors (e.g., transportation or agriculture) as risk is not absolute but a social construct that depends on the local context, the coping capacity, and risk perception.</span>
+In this context, a **critical impact rainfall threshold** is defined as the precipitation necessary to trigger unsustainable or unacceptable impacts. As seen in figure 1, this concept is closely related to the “**risk-tolerance level**”, defined as the maximum amount of loss, impact, or frequency that areas, communities, and regions are prepared to handle due to climate hazards, or in this case, extreme precipitation. <span style="color:red">The thresholds and risk tolerance levels will naturally vary across communities and sectors (e.g., transportation or agriculture) as risk is not absolute but a social construct that depends on the local context, the coping capacity, and risk perception.</span>
 
 ![Figure 1. Risk Tolerance level and critical impact-based rainfall thresholds - an example.](https://github.com/CLIMAAX/HEAVY_RAINFALL/blob/main/01_Extreme_precipitation/images/Extreme_precipitation_Impact_pyramid.png?raw=True "Figure 1. Risk Tolerance level and critical impact-based rainfall thresholds - an example.
 ")
@@ -22,27 +22,27 @@ The aim is to define our impact-based rainfall thresholds in terms of **M**agnit
 
 ### Step 1: Hazard and impact data collection
 
-This step is crucial as it provides a solid foundation to identify what kinds of risks a region, city or neighbourhood are facing and how they have affected them in the past. Different approaches exist to develop hazard-impact databases; however, they all involve the integration of hazard, exposure, and vulnerability data from scientific and local knowledge sources. Below are some examples of hazard and impact data collection:
-1. Local sources: Local newspapers, TV reports, and insurance records can help uncover details about past precipitation events and their impacts.
-2. Reach out to emergency responders and official authorities: The primary source for verified incident and damage reports for understanding the true impact of precipitation events
-3. Social media monitoring for real-time and post-hazard impact information 
-4. Crowdsourcing campaigns via mobile apps or social media 
-5. Traffic analytics based on Internet of Things devices.
+This step is crucial as it provides a solid foundation to identify what kinds of risks a region, city or neighbourhood are facing and how they have affected them in the past. Different approaches for developing hazard-impact databases exist; however, they all involve the integration of hazard, exposure, and vulnerability data from scientific and local knowledge sources. Below are some examples of hazard and impact data collection:
+1. **Local sources**: Local newspapers, TV reports, and insurance records can help uncover details about past precipitation events and their impacts.
+2. Reach out to **emergency responders and official authorities**: The primary source for verified incident and damage reports for understanding the true impact of precipitation events.
+3. **Social media** monitoring for real-time and post-hazard impact information. 
+4. **Crowdsourcing** campaigns via mobile apps or social media. 
+5. **Traffic analytics** based on Internet of Things devices.
 
-Remember, the goal of this step is to gather as much local data as possible on past rainfall events, the hydrometeorological parameters observed, such as intensities or weather radar), and the impacts triggered in the area.
+Remember, the goal of this step is to gather as much local data as possible on past rainfall events, the hydrometeorological parameters observed (such as intensities or weather radar), and the impacts triggered in the area.
 
 ### Step 2: Create hazard-impact databases
 
-The information collected in step one can be used to develop hazard-impact databases. These can be a key source of information to help communities organise and understand the risks they face and their impacts. The database configuration is flexible and based on the impact and hazard criteria most relevant for the area and users. However, they traditionally include the following sections for previous rainfall events: 
+The information collected in step 1 can be used to develop hazard-impact databases. These can be a key source of information to help communities understand the risks they are facing and their impacts. The database configuration is flexible and based on the impact and hazard criteria most relevant for the area and users. However, they traditionally include the following sections for previous rainfall events: 
 
-1. Hazard Data: This section includes information on hydrometeorological parameters such as rainfall accumulations for different directions (e.g., mm/24 hours), the return periods associated with these intensities - more on that in step 3 - and the total duration of each rainfall event
-2. Impact categories: It involves the categorisation of previously experienced impacts in an event into key areas:
-    * Risk to people: Information on evacuations, rescue activities, injuries or fatalities reported in an area or specific location
-    * Damage to buildings
-    * Disruption to traffic: Road closures, traffic or transportation disruption
-    * Others, that encompass emergency information (e.g., number 112 calls) and complementary data (e.g., insurance claims, official warnings triggered, and impact description)
+1. **Hazard Data**: information on hydrometeorological parameters such as rainfall accumulations for different durations (e.g. mm of rainfall per 24 hours), the return periods associated with these intensities - more on that in step 3 - and the total duration of each rainfall event.
+2. **Impact categories**: categorisation of previously experienced impacts under an extreme event into key areas:
+    * Risk to people: Information on evacuations, rescue activities, injuries or fatalities reported in an area or specific location.
+    * Damage to buildings.
+    * Disruption to traffic: road closures, traffic or transportation disruption.
+    * Other: emergency information (e.g., number 112 calls) and complementary data (e.g., insurance claims, official warnings triggered, impact descriptions).
   
-A table listing all previous events can be created using these sections, with each entry including descriptive information on both hazard and impact. Structuring the hazard-impact data in this format can create a clear image of past events and their effects on communities or regions. See the table below for an illustrative example of a hazard-impact database.
+A table listing all previous events can be created using these sections, with each entry including descriptive information on both hazard and impact. Structuring the hazard-impact data in this format can help create a clear image of past events and their effects on communities or regions. See the table below for an illustrative example of a hazard-impact database.
 
 <table style="border: 1px solid black;border-collapse: collapse;">
   <tr style="border: 1px solid black;border-collapse: collapse;">
@@ -69,15 +69,15 @@ A table listing all previous events can be created using these sections, with ea
 
 Understanding how often an extreme precipitation event can occur is key to effective planning. The magnitude of an extreme precipitation event is inversely related to its frequency of occurrence. This means that the more extreme an event is, the less often it happens, but will this change in the future? First, we need to identify our current frequencies!
 
-In this context, **What is a local rainfall frequency analysis?** Its objective is to link the magnitude of precipitation events for specific durations (e.g., millimetres in 24 hours) to their frequency of occurrence in terms of return periods. In simpler terms, return periods are how often we can expect a rainfall event with a particular magnitude to happen. As an illustrative example, a 10-year return period associated with 100 mm/24 hours means we can expect that rainfall magnitude about once every 10 years on average. However, please keep in mind that this doesn't mean it only happens every 10 years—it's just an average, and we can experience multiple "10-year" events in a single year! The results of a rainfall frequency analysis can be used for many engineering purposes, such as designing drainage systems, and flood control structures or identifying rainfall warning thresholds.
+The objective of **local rainfall frequency analysis** is to link the magnitude of precipitation events for specific durations (e.g., mm of rain in 24 hours) to their frequency of occurrence in terms of return periods. In simpler terms, return periods are how often we can expect a rainfall event with a particular magnitude to happen. As an illustrative example, a 10-year return period associated with 100 mm/24 hours means we can expect this magnitude of rainfall about once every 10 years on average. However, please keep in mind that this doesn't mean it only happens every 10 years — it's just an average, and we can sometimes experience multiple "10-year" events in a single year! The results of a rainfall frequency analysis can be used for many engineering purposes, such as designing drainage systems, and flood control structures or identifying rainfall warning thresholds.
 
-Fortunately, most regions and municipalities already have official rainfall frequency analysis data (i.e., return periods) for their area. Usually, this process involves collecting previous rainfall data from local rain gauge stations, preprocessing, and performing a frequency analysis by fitting a probability distribution function to the annual maximum rainfall series of a specific duration. 
+Fortunately, most regions and municipalities already have official rainfall frequency analysis data (i.e., return periods) for their area. Usually, this process involves collecting previous rainfall data from local rain gauge stations, preprocessing that data, and performing a frequency analysis by fitting a probability distribution function to the annual maximum rainfall series of a specific duration. 
 
-For this step, it is recommended that the study or dataset with the area’s official return periods be identified (see the example of Catalonia here). If unavailable, do not worry! You can refer to the extreme precipitation hazard workflow for guidance on deriving your area’s return periods. 
+For this step, we reccomend to **identify the previous study or dataset with the official return periods for your area** (see the example of Catalonia here). If unavailable, do not worry! You can refer to the extreme precipitation hazard workflow for guidance on deriving your area’s return periods. 
 
-Once the dataset has been identified or the local rainfall frequency analysis has been developed, the local return periods can be integrated into the hazard-impact table created in Step 2. For each event, cross-reference the observed intensities (i.e., mm/24 hours) to the official return periods, or in other words, match up how intense a precipitation event was with how often it is expected to happen in the area.
+Once the dataset has been identified or the local rainfall frequency analysis has been performed, the local return periods can be integrated into the hazard-impact table created in Step 2. For each event, cross-reference the observed intensities (i.e., mm of rain per 24 hours) to the official return periods, or in other words, match up how intense a precipitation event was with how often it is expected to happen in the area.
 
-This process allows us to contextualise previously identified precipitation events and their categorised impacts in terms of observed rainfall accumulation and frequency of occurrence. See the table below as an illustrative example of an event, the accumulations registered, and the associated return periods (as T)
+This process allows us to contextualize the previously identified precipitation events and their impacts in terms of observed rainfall accumulation and frequency of occurrence. See the table below as an illustrative example of an event, the accumulations registered, and the associated return periods (e.g. T20 refers to an event that occurs once in 20 years on average).
 
 <table style="border: 1px solid black;border-collapse: collapse;">
   <tr style="border: 1px solid black;border-collapse: collapse;">
@@ -106,16 +106,17 @@ This process allows us to contextualise previously identified precipitation even
 
 ### Step 4: Impact evaluation
 
-Now that the hazard-impact database has been constructed, we can evaluate the impacts experienced in each event. Step 4 focuses on evaluating and categorising on a severity three-level scale (i.e., low, medium, and high impact) the impacts observed in all the events listed in the table of step 3. Here is a basic guide on how to perform the evaluation:
+Now that the hazard-impact database has been constructed, we can evaluate the impacts of each event. Step 4 focuses on evaluating and categorising the events on a severity scale with three levels (i.e., low, medium, and high impact). This is done for impacts observed in all the events listed in the table produced in step 3. Here is a basic guide on how to perform the evaluation:
 
-1. Reviewing events: Go through each rainfall event listed in the database from step 3 and examine the impacts these have caused in the area of interest.
-2. Categorising in terms of impact severity: Assess the severity of these impacts and classify them as low, medium or high while considering factors such as the extent of damage, disruptions to daily life, risk to citizens, and others included in the impact categories of the table in step 3.
+1. **Reviewing events**: go through each rainfall event listed in the database from step 3 and examine the impacts it has caused in the area of interest.
+2. **Categorising in terms of impact severity**: assess the severity of the impacts and classify them as low, medium or high, while considering factors such as the extent of damage, disruptions to daily life, risk to citizens, and others included in the impact categories of the table in step 3.
 
-It is important to note that:
-* This evaluation involves a degree of subjective expert judgment. However, your local knowledge or those of local stakeholders, authorities and responders can support assessing the acceptable levels of risk for the community and provide vulnerability details on local vulnerabilities.
-* Since the evaluation is tailored to local vulnerabilities, steps 2-4 need to be repeated for each city and specific location. Risk levels can vary across different parts of a community, so it is crucial to assess impacts at a local and specific level
+```{note}
+This evaluation involves a degree of subjective expert judgment. However, your local knowledge or that of local stakeholders, authorities and responders can support assessing the acceptable levels of risk for the community and provide details on local vulnerabilities.  
+Since the evaluation is tailored to local vulnerabilities, steps 2-4 need to be repeated for each city and specific location. Risk levels can vary across different parts of a community, so it is crucial to assess impacts at a local and specific level.
+```
 
-The result of this step is the classification of each event in the hazard-impact database based on the severity of the triggered impacts (e.g., the 16th of August is considered a high-impact event). See the table below for an illustrative example of a hazard-impact database classified by impact severity where T equals the return period.
+The result of this step is the classification of each event in the hazard-impact database based on the severity of the triggered impacts. See the table below for an illustrative example of a hazard-impact database classified by impact severity where T equals the return period (in years). In this table, for example, the rainfall event on the 22-23 October is considered a high-impact event.
 
 <table style="border: 1px solid black;border-collapse: collapse;">
   <tr style="border: 1px solid black;border-collapse: collapse;">
@@ -157,8 +158,8 @@ The result of this step is the classification of each event in the hazard-impact
 ### Step 5: Derive critical impact-based rainfall thresholds and advisory tables
 
 Now that we have assessed the impact severity of past events, we can derive critical impact-based rainfall thresholds. This process involves two basic steps:
-1. Analyse each event classified per impact severity: Examine the impact levels established in step 4 to identify patterns and correlations between the rainfall intensity recorded (or other hydrometeorological parameters included in Table 3) and the resulting impacts. This step can help to pinpoint critical thresholds beyond which impacts escalate significantly (e.g., high-impact level) 
-2. Derive rainfall thresholds: Using the information gained from the previous step, establish critical rainfall thresholds per impact severity level. These are established under the assumption that the impact severity level seen on the previously classified events can be expected once these thresholds are exceeded in rainfall events.
+1. **Analyse each event classified per impact severity**: examine the impact levels established in step 4 to identify patterns between the rainfall intensity recorded (or other hydrometeorological parameters included in Table 3) and the resulting impacts. This step can help to pinpoint critical thresholds beyond which impacts escalate significantly (e.g., high-impact level).
+2. **Derive rainfall thresholds**: using the information gained from the previous step, establish critical rainfall thresholds per impact severity level. These are established under the assumption that the impact severity level seen on the previously classified events can be expected once these thresholds are exceeded in rainfall events.
 
 
 See the table below as an illustrative example of the critical impact-based rainfall thresholds defined in terms of **M**agnitude, **D**uration and **F**requency.
@@ -214,16 +215,21 @@ It is important to note that:
 
 - These thresholds are determined by analysing past impacts and considering current vulnerabilities, exposure levels, and local capacity to cope. If any of these factors undergo significant changes (like implementing adaptation measures or altering the landscape), it's crucial to reassess these thresholds. A good practice is to evaluate how well these thresholds perform after each rainy season, especially if severe impacts are reported in the area.
 
-## Changes in local critical impact rainfall thresholds under climate change: Magnitude and frequency
+## Changes in local critical impact rainfall thresholds under climate change -  magnitude and frequency
 
-As seen in figure 2, the extreme rainfall climate data computed in this workflow provide some insight into how current critical rainfall thresholds associated with impacts or for local physical measures, such as urban rainfall retention basins, reservoirs, low points, and urban drainage systems, will be exceeded (or not) in terms of Magnitude (e.g., intensity) and frequency (e.g., return periods) due to climate change. 
+Extreme rainfall data that is computed later on in this workflow based on climate projections will provide insight in how rainfall patterns are likely to change under climate change. This helps to assess how the current critical rainfall thresholds will be exceeded (or not) in terms of magnitude (e.g. intensity) and frequency. Remember that the thresholds defined above are location-specific and are dependent on the existing local physical features, such as urban rainfall retention basins, reservoirs, low points, and urban drainage systems. 
 
 ![Intensity-Frequency illustration](https://github.com/CLIMAAX/HEAVY_RAINFALL/blob/main/01_Extreme_precipitation/images/Extreme_precipitation_ID_Shift.png?raw=true "Intensity-Frequency illustration")
 Figure 2. Possible changes in critical thresholds (Adapted from Seneviratne et. al., 2021)
 
-By understanding how these critical thresholds will fluctuate locally, communities can make informed decisions about the most appropriate long-term adaptation measures to decrease the potential negative consequences. These can include increasing the capacity of water collection systems, updating their early warning systems, or developing awareness campaigns on more frequent extreme precipitation events. The result is a more comprehensive and encompassing local risk assessment and strategies for adapting to the challenges posed by climate change.
+By understanding how the extreme precipitation will change locally with respect to the critical thresholds, communities can make informed decisions about the most appropriate long-term adaptation measures to decrease the potentially increasing negative impacts. This can include increasing the capacity of water collection systems, updating early warning systems, or developing awareness campaigns on more frequent extreme precipitation events. As a result, a more comprehensive local risk assessment and strategies for adapting to the challenges posed by climate change can be formulated.
 
-We encourage you to identify your critical rainfall thresholds and explore how these will evolve under climate change scenarios by using the hazard and risk sections of this workflow
+We encourage you to identify your critical rainfall thresholds and explore how these will evolve under climate change scenarios by using the hazard and risk assessment sections of this workflow that follow directly after this page.
+<span style="color:red">
+How to continue - perhaps add a guide on whether to go to the hazard workflow or risk directly?  
+Please note that for executing the proposed assessment methodology some technical experience with data analysis using a programming language is required. ... 
+
+</span>
 
 ## You have your critical thresholds, now what?
 
@@ -262,6 +268,7 @@ The Center of Applied Research in Hydrometeorology from the Universitat Politèc
 - Daniel Sempere-Torres
 
 CRAHI would like to thank Ainara Casajús and Núria Gasulla from the Civil Protection of Catalunya for their valuable contributions during the development process of this workflow.
+
 
 ## References 
 Meléndez-Landaverde, E., Sempere-Torres, D. (2022) Design and evaluation of community and impact-based flood warnings: The SS-EWS framework. Journal of Flood Risk Management, e12860. [https://doi.org/10.1111/jfr3.12860](https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12860)
