@@ -26,8 +26,8 @@ dependencies:
     - python=3.11
     - rasterio=1.3.10
     - rioxarray=0.15.7
+    - rio-cogeo=5.3.3
     - scipy=1.14.0
     - shapely=2.0.4
     - xarray=2024.6.0
-    - pip:
-        - rio-cogeo==5.3.3
+
