@@ -1,41 +1,56 @@
 # HEAVY RAINFALL
 
-Repository for collaboration on workflows for the Extreme precipitation hazard
+Repository for collaboration on workflows for the extreme precipitation hazard.
+
+[<img src="https://raw.githubusercontent.com/CLIMAAX/crabook/main/crabook/logo.png" height="100" />](https://climaax.eu)
+
+Part of the [Climate Risk Assessment Handbook](https://handbook.climaax.eu/notebooks/workflows/heavy_rainfall.html).
 
 
-# How to run
+## Workflows
 
-## Running on Binder
+- [Extreme precipitation](01_Extreme_precipitation/)
 
-The notebook is designed to be launched from Binder.
 
-Click [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CLIMAAX/HEAVY_RAINFALL/main) to access the repository through MyBinder.
+## How to run
 
-## Running locally
-You may also download the repository from GitHub to run it locally:
-1. Open your terminal
+See our [how to use risk workflows](https://handbook.climaax.eu/notebooks/workflows_how_to.html) page in the Handbook for more information.
 
-2. Check your conda install with `conda --version`. If you don't have conda, install it by following these instructions (see [here](https://docs.conda.io/en/latest/miniconda.html))
+### Launch a binder session
 
-3. Clone the repository
-    ```bash
-    git clone git@github.com:CLIMAAX/HEAVY_RAINFALL.git
-    ```
+Binder sessions are not persistent and may not provide the necessary computing resources to run all workflow steps.
 
-4. Move into the cloned repository
-    ```bash
-    cd HEAVY_RAINFALL
-    ```
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/climaax/binder-env/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FCLIMAAX%252FHEAVY_RAINFALL%26urlpath%3Dlab%252Ftree%252FHEAVY_RAINFALL%252F%26branch%3Dmain)
 
-5. Create and activate your environment from the `environment.yml` file
-    ```bash
-    conda env create -f environment.yml
-    conda activate climaax_heavy_rainfall
-    ```
+### Quickstart: local setup
 
-6. Launch the jupyter interface of your preference, notebook, `jupyter notebook` or lab `jupyter lab`
-7. Edit the notebook
-8. Commit and push to the repo. **This step will be changed soon, introducing Pull Requests**.
+In a terminal where git and conda are available:
 
-# Credits
-The **How to run** section was adapted from the [Environmental Data Science Book](https://edsbook.org/welcome.html) project.
+1.  Clone the repository
+
+        git clone git@github.com:CLIMAAX/HEAVY_RAINFALL.git
+
+2.  Move into the cloned repository
+
+        cd HEAVY_RAINFALL
+
+3.  Create a new environment from the `environment.yml` file
+
+        conda env create -f environment.yml
+
+4.  Activate the environment
+
+        conda activate climaax_heavy_rainfall
+
+5.  Launch the Jupyter interface of your preference with
+
+        jupyter lab
+
+    or
+
+        jupyter notebook
+
+
+## How to contribute
+
+See our [contribute to risk recipes](https://handbook.climaax.eu/community/contribute.html) page in the handbook for more information.
