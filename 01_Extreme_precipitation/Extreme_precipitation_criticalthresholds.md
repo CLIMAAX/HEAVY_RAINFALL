@@ -234,12 +234,47 @@ You've identified your critical thresholds—great! Now, let's explore what to d
 If you prefer not to generate new rainfall datasets, use one of the pre-calculated European datasets provided in this workflow. These datasets have been computed using the same methodology as the Hazard Assessment, which involves EURO-CORDEX climate projections and extreme value analysis.
 
 The combinations available are:
-1. **Global and Regional Climate Model chains (GCM/RCM)**: *ichec-ec-earth/RACMO22E; mohc-hadgem2-es/MOHC-HADREM*
-2. **Representative Concentration Pathway (RCP)**: rcp85 
-3. **Historical time-frames**: 1951-1980, 1971-2000, 1976-2005
-4. **Future time-frames**: 2011-2040, 2041-2070, 2071-2100 (2070-2099 for *mohc-hadgem2-es*)
-5. **Durations**: 3h, 6h, 12h, 24h
 
+<table border="1">
+  <tr>
+    <th style="text-align: left;">Attribute</th>
+    <th style="text-align: left;">Non-bias corrected datasets</th>
+    <th style="text-align: left;">Bias-corrected datasets</th>
+  </tr>
+  <tr>
+    <td style="text-align: left;">Global and Regional Climate Model Chains<br></td>
+    <td style="text-align: left;">
+        ichec-ec-earth/RACMO22E <br>
+        mohc-hadgem2-es/RACMO22E<br>
+        mpi-m-mpi-esm-lr/SMHI-RCA4<br>
+    </td>
+    <td style="text-align: left;">
+        ichec-ec-earth/RACMO22E <br>
+        mohc-hadgem2-es/RACMO22E<br>
+        mpi-m-mpi-esm-lr/SMHI-RCA4<br>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">Representative Concentration Pathway (RCP)<br></td>
+    <td style="text-align: left;">rcp 4.5<br>rcp 8.5</td>
+    <td style="text-align: left;">rcp 4.5<br>rcp 8.5</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">Historical Time-frames<br></td>
+    <td style="text-align: left;">1951-1980<br>1971-2000<br>1976-2005<br></td>
+    <td style="text-align: left;">1971-2000<br>1976-2005<br></td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">Future Time-frames<br></td>
+    <td style="text-align: left;">2011-2040<br>2041-2070<br>2071-2100 <br></td>
+    <td style="text-align: left;">2011-2040<br>2041-2070<br>2071-2100 <br></td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">Durations<br></td>
+    <td style="text-align: left;">3h<br>24h<br></td>
+    <td style="text-align: left;">24h<br></td>
+  </tr>
+</table>
 In this path, you will follow the steps outlined in the "**Extreme precipitation: Changes under climate scenarios workflow [Risk assessment](EXTREME_PRECIPITATION_Risk_Assessment.ipynb)**" section. You will use the pre-calculated datasets to characterise how your critical impact-based rainfall thresholds are expected to change under climate change scenarios in your area of interest. By choosing Path A, you can focus directly on assessing how these climate projections impact your identified critical thresholds and associated risks while profiting from existing data resources.
 
 ### Path B: Let’s start from scratch
