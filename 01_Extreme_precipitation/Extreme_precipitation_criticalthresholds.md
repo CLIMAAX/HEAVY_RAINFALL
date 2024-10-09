@@ -244,14 +244,14 @@ The combinations available are:
   <tr>
     <td style="text-align: left;">Global and Regional Climate Model Chains<br></td>
     <td style="text-align: left;">
-        ichec-ec-earth/RACMO22E <br>
-        mohc-hadgem2-es/RACMO22E<br>
-        mpi-m-mpi-esm-lr/SMHI-RCA4<br>
+        ichec-ec-earth/knmi-racmo22e <br>
+        mohc-hadgem2-es/knmi-racmo22e<br>
+        mpi-m-mpi-esm-lr/smhi-rca4<br>
     </td>
     <td style="text-align: left;">
-        ichec-ec-earth/RACMO22E <br>
-        mohc-hadgem2-es/RACMO22E<br>
-        mpi-m-mpi-esm-lr/SMHI-RCA4<br>
+        ec-earth/racmo22e <br>
+        hadgem2-es/racmo22e<br>
+        mpi-esm-lr/rca4<br>
     </td>
   </tr>
   <tr>
