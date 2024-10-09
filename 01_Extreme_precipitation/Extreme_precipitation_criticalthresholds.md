@@ -286,13 +286,15 @@ If you prefer to customise your climate risk assessment based on specific region
 
 By opting for Path B, you can customise your climate risk assessment based on your local conditions and requirements.
 
-Finally, the last section of the workflow “**[Extreme precipitation: Examples on how to carry out a climate risk assessment](EXTREME_PRECIPITATION_Risk_Assessment_examples.ipynb)**” presents real examples of applying these steps to European regions. Feel free to explore and adapt them to your research needs!
+Finally, the last section of the workflow **“[Extreme precipitation: Examples on how to carry out a climate risk assessment](EXTREME_PRECIPITATION_Risk_Assessment_examples.ipynb)”** presents real examples of applying these steps to European regions. Feel free to explore and adapt them to your research needs!
 
 
 ## Authors
 The Center of Applied Research in Hydrometeorology from the Universitat Politècnica de Catalunya (CRAHI-UPC). The members involved in the development of this section were the following:
 
 - Erika R. Meléndez-Landaverde
+
+- Víctor González Garrido
 
 - Daniel Sempere-Torres
 
