@@ -1,3 +1,10 @@
+*.nc
+*.tif
+*.tiff
+
+01_Extreme_precipitation/extreme_precipitation_risk/
+01_Extreme_precipitation/cache/
+
 #Data directory
 **/data/
 
