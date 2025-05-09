@@ -28,7 +28,7 @@ In a terminal where git and conda are available:
 
 1.  Clone the repository
 
-        git clone git@github.com:CLIMAAX/HEAVY_RAINFALL.git
+        git clone https://github.com/CLIMAAX/HEAVY_RAINFALL.git
 
 2.  Move into the cloned repository
 
