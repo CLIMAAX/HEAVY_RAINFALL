@@ -4,7 +4,7 @@ Repository for collaboration on workflows for the extreme precipitation hazard.
 
 [<img src="https://raw.githubusercontent.com/CLIMAAX/crabook/main/crabook/logo.png" height="100" />](https://climaax.eu)
 
-Part of the [Climate Risk Assessment Handbook](https://handbook.climaax.eu/notebooks/workflows/heavy_rainfall.html).
+Part of the [Climate Risk Assessment Handbook](https://handbook.climaax.eu/).
 
 
 ## Workflows
@@ -26,7 +26,7 @@ Binder sessions are not persistent and may not provide the necessary computing r
 
 ```bash
 # Clone the workflow repository
-git clone git@github.com:CLIMAAX/HEAVY_RAINFALL.git
+git clone https://github.com/CLIMAAX/HEAVY_RAINFALL.git
 cd HEAVY_RAINFALL
 
 # Create a new environment and activate it
