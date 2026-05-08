@@ -275,7 +275,8 @@ The combinations available are:
     <td style="text-align: left;">24h<br></td>
   </tr>
 </table>
-In this path, you will follow the steps outlined in the "**Extreme precipitation: Changes under climate scenarios workflow [Risk assessment](EXTREME_PRECIPITATION_Risk_Assessment.ipynb)**" section. You will use the pre-calculated datasets to characterise how your critical impact-based rainfall thresholds are expected to change under climate change scenarios in your area of interest. By choosing Path A, you can focus directly on assessing how these climate projections impact your identified critical thresholds and associated risks while profiting from existing data resources.
+
+In this path, you will follow the steps outlined in the "**[Extreme precipitation: Changes under climate scenarios workflow [Risk assessment]](EXTREME_PRECIPITATION_Risk_Assessment.ipynb)**" section. You will use the pre-calculated datasets to characterise how your critical impact-based rainfall thresholds are expected to change under climate change scenarios in your area of interest. By choosing Path A, you can focus directly on assessing how these climate projections impact your identified critical thresholds and associated risks while profiting from existing data resources.
 
 ### Path B: Let’s start from scratch
 
