@@ -72,7 +72,7 @@ Valchiavenna applied the Equivalent Rainfall (Peq) method to incorporate anteced
 This allows rainfall to be evaluated against established warning thresholds while accounting for changing catchment conditions. The same rainfall amount can therefore lead to different warning levels depending on preceding wetness. Valchiavenna integrated this approach into its climate assessment to investigate changes in the frequency of operationally relevant warning threshold exceedances under future climate scenarios.
 <div align="center">
   <img src="https://github.com/CLIMAAX/HEAVY_RAINFALL/blob/main/01_Extreme_precipitation/Images_Pathways/Valchiavenna.png?raw=True" alt="Valchiavenna" width="500">
-    <figcaption>Figure 1. Homogenous alert zones of Valchiavenna from the regional Civil Protection system of Lombardy Region.(Source: Valchiavenna; CMV4Clima; Deliverable 2)</figcaption>
+    <figcaption>Figure 3. Homogenous alert zones of Valchiavenna from the regional Civil Protection system of Lombardy Region.(Source: Valchiavenna; CMV4Clima; Deliverable 2)</figcaption>
 </div>
 
 ### 3. Translation of rainfall into hydrological, hydraulic or drainage outputs
@@ -90,7 +90,7 @@ Viana do Castelo connected projected changes in extreme rainfall with existing d
 The assessment also analysed 1,321 georeferenced historical incidents using DBSCAN spatial clustering to identify recurring drainage hotspots. Building on this local evidence, the municipality introduced a drainage gap metric to estimate the additional drainage capacity needed to maintain existing protection levels under future rainfall conditions. For example, at Hotspot 13, Rua da Ameixoeira, a projected increase of approximately 2% in extreme rainfall intensity was associated with a 9% increase in required drainage capacity. This translates a relatively small climate signal into a quantifiable infrastructure requirement that can support the prioritisation and planning of drainage upgrades.
 <div align="center">
   <img src="https://github.com/CLIMAAX/HEAVY_RAINFALL/blob/main/01_Extreme_precipitation/Images_Pathways/Viana.png?raw=True" alt="Viana" width="800">
-    <figcaption>Figure 2. Identification of the 10 critical rainfall hotspots through DBSCAN clustering of historical events in Viana do Castelo Municipality.(Source: Viana do Castelo; VC_Climax; Deliverable 2)</figcaption>
+    <figcaption>Figure 4. Identification of the 10 critical rainfall hotspots through DBSCAN clustering of historical events in Viana do Castelo Municipality.(Source: Viana do Castelo; VC_Climax; Deliverable 2)</figcaption>
 </div>
 
 ##### Länsstyrelsen Västernorrland (Sweden)
@@ -100,7 +100,7 @@ In Sundsvall, the assessment used officially adopted flood hazard maps to analys
 This approach connects extreme rainfall with its potential physical impacts and provides locally detailed information to support spatial planning, emergency preparedness and the prioritisation of mitigation measures. It also illustrates how existing flood hazard and risk maps can be integrated into a regional climate risk assessment to improve the understanding of rainfall-related impacts.
 <div align="center">
   <img src="https://github.com/CLIMAAX/HEAVY_RAINFALL/blob/main/01_Extreme_precipitation/Images_Pathways/UVCRA.png?raw=True" alt="UVCRA" width="550">
-    <figcaption>Figure 3. Example of a cloudburst mapping (skyfallskartering) layer showing estimated water depths (m) in mapped low-point areas (lågpunkter). The map identifies enclosed low-lying areas where water may accumulate during extreme rainfall events and provides an indication of potential inundation depths.(Source: Länsstyrelsen Västernorrland; UVCRA-CLIMAAX; Deliverable 2)</figcaption>
+    <figcaption>Figure 5. Example of a cloudburst mapping (skyfallskartering) layer showing estimated water depths (m) in mapped low-point areas (lågpunkter). The map identifies enclosed low-lying areas where water may accumulate during extreme rainfall events and provides an indication of potential inundation depths.(Source: Länsstyrelsen Västernorrland; UVCRA-CLIMAAX; Deliverable 2)</figcaption>
 </div>
 
 ### 4. Detailed exposure mapping and risk prioritisation
@@ -118,7 +118,7 @@ Hegyvidék District incorporated high-resolution population mobility and essenti
 These datasets were integrated with rainfall hazard and vulnerability indicators to develop urban-block risk maps for different time periods and climate scenarios. By accounting for variations in population presence and mobility, the approach provides a more detailed representation of who may be exposed, where and when, alongside the essential services potentially affected.
 <div align="center">
   <img src="https://github.com/CLIMAAX/HEAVY_RAINFALL/blob/main/01_Extreme_precipitation/Images_Pathways/MARCAdapt.png?raw=True" alt="Hegyvidék" width="500">
-    <figcaption>Figure 4. Heavy Rainfall Risk maps of Hegyvidék Municipality for the RCP4.5 scenario for the period 2041-2070. Red indicates high risk, green indicates low risk. (Source: Hegyvidék District; MARCAdapt; Deliverable 2)</figcaption>
+    <figcaption>Figure 6. Heavy Rainfall Risk maps of Hegyvidék Municipality for the RCP4.5 scenario for the period 2041-2070. Red indicates high risk, green indicates low risk. (Source: Hegyvidék District; MARCAdapt; Deliverable 2)</figcaption>
 </div>
 
 ##### St. Wendel District (Germany)
@@ -128,7 +128,7 @@ St. Wendel combined local heavy-rainfall hazard maps with detailed spatial infor
 The results help identify potentially vulnerable locations and support civil protection, emergency preparedness and municipal planning. The assessment also considers the district’s local context, including the 2024 Pentecost flood, when St. Wendel recorded 107 mm of rainfall in 24 hours, close to its current 100-year rainfall threshold.
 <div align="center">
   <img src="https://github.com/CLIMAAX/HEAVY_RAINFALL/blob/main/01_Extreme_precipitation/Images_Pathways/WND.png?raw=True" alt="St_Wendel" width="550">
-    <figcaption>Figure 5. Heavy rainfall and care facilities (© IZES gGmbH) based on ESRI base map and (LVGL 2026). (Source: St. Wendel District; CliRAs - WND; Deliverable 2)</figcaption>
+    <figcaption>Figure 7. Heavy rainfall and care facilities (© IZES gGmbH) based on ESRI base map and (LVGL 2026). (Source: St. Wendel District; CliRAs - WND; Deliverable 2)</figcaption>
 </div>
 
 ##### Southwest Finland (Finalnd)
@@ -139,7 +139,7 @@ This approach helps identify where changes in heavy rainfall may have greater co
 
 <div align="center">
   <img src="https://github.com/CLIMAAX/HEAVY_RAINFALL/blob/main/01_Extreme_precipitation/Images_Pathways/CLIVAS.png?raw=True" alt="CLIVAS" width="500">
-    <figcaption>Figure 6. Key infrastructure and the ten most populated
+    <figcaption>Figure 8. Key infrastructure and the ten most populated
 municipalities in Southwest Finland. Basemap: NLS. (Source: Southwest Finland; CLIVAS; Deliverable 2)</figcaption>
 </div>
 
@@ -151,7 +151,7 @@ The assessment compared a present-day 1-in-100-year rainfall event of 67 mm with
 
 <div align="center">
   <img src="https://github.com/CLIMAAX/HEAVY_RAINFALL/blob/main/01_Extreme_precipitation/Images_Pathways/Tipperary2.png?raw=True" alt="Tipperary" width="600">
-    <figcaption>Figure 3. Surface water flooding damage assessment for roads in Clonmel under 1‑in‑100‑year event in RCP8.5 by mid-century, showing the spatial distribution of inundated road segments and the estimated percentage damage derived fromflood depths and JRC depth–damage functions. (Source: Tipperary County; CLIMAAX Tipperary; Deliverable 2)</figcaption>
+    <figcaption>Figure 9. Surface water flooding damage assessment for roads in Clonmel under 1‑in‑100‑year event in RCP8.5 by mid-century, showing the spatial distribution of inundated road segments and the estimated percentage damage derived fromflood depths and JRC depth–damage functions. (Source: Tipperary County; CLIMAAX Tipperary; Deliverable 2)</figcaption>
 </div>
 
 ### 5. From extreme rainfall to secondary hazards
@@ -170,7 +170,7 @@ Terrain analysis was used to derive flow directions, flow accumulation patterns 
 
 <div align="center">
   <img src="https://github.com/CLIMAAX/HEAVY_RAINFALL/blob/main/01_Extreme_precipitation/Images_Pathways/Reunion.png?raw=True" alt="Reunion" width="550">
-    <figcaption>Figure 9. Example of catchment delineation (Riviere des Pluies) on eastern part of the Saint-Denis TRI. (Source: La Réunion; RISC RA; Deliverable 2)</figcaption>
+    <figcaption>Figure 10. Example of catchment delineation (Riviere des Pluies) on eastern part of the Saint-Denis TRI. (Source: La Réunion; RISC RA; Deliverable 2)</figcaption>
 </div>
 
 ##### Hopa (Türkiye)
@@ -180,7 +180,7 @@ Hopa is located in a mountainous area of northeastern Türkiye, where heavy rain
 The susceptibility maps were then considered alongside future extreme precipitation projections to assess how more frequent and intense rainfall could increase landslide risk. The results identified around 360 buildings and 16 km of roads in areas of high or very high susceptibility, highlighting the potential consequences for infrastructure and accessibility. This approach shows how landslide susceptibility assessment can be combined with future rainfall projections to identify areas where climate change may increase rainfall-induced landslide risk.
 <div align="center">
   <img src="https://github.com/CLIMAAX/HEAVY_RAINFALL/blob/main/01_Extreme_precipitation/Images_Pathways/HOPA.png?raw=True" alt="HOPA" width="500">
-    <figcaption>Figure 10. Landslide susceptibility map of the study area. (Source: Hopa; SAFE-HOPA; Deliverable 2)</figcaption>
+    <figcaption>Figure 11. Landslide susceptibility map of the study area. (Source: Hopa; SAFE-HOPA; Deliverable 2)</figcaption>
 </div>
 
 
