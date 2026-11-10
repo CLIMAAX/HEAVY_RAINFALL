@@ -4,14 +4,15 @@ The HR workflow provides a step-by-step framework for assessing changes in extre
 
 The regional projects presented below addressed this challenge by adapting and extending the HRW to their local scale. Through their climate risk assessments, they have connected the HRW to local observations, impact records, warning thresholds, hydraulic and drainage processes, exposed receptors or damage estimates. For more detailed information on each of the regions, consult the reference section for the complete public deliverables.
 
-### 1. Locally informed rainfall-impact thresholds
+## 1. Locally informed rainfall-impact thresholds
 
 Historical rainfall observations and documented impacts can help regions identify locally relevant critical rainfall thresholds for the HRW. By examining the rainfall conditions associated with past flooding, damage or disruption, regions can identify thresholds that reflect their local risk context.
 
 The following examples illustrate different ways of connecting historical rainfall evidence and observed impacts with climate risk assessment, from local threshold definition to the evaluation of existing hazard maps.
 
-#### Region Examples
-##### Quart de Poblet (Spain)
+### Region Examples
+
+#### Quart de Poblet (Spain)
 
 Quart de Poblet illustrates two complementary ways of incorporating local evidence into the assessment. First, the municipality combined local rainfall observations, historical events and official warning thresholds to establish a critical rainfall threshold reflecting local conditions. This threshold was subsequently used in the HRW to assess projected changes in extreme rainfall.
 
@@ -29,7 +30,7 @@ In parallel, the impacts of the October 2024 DANA, which caused severe flooding 
     <figcaption>Figure 1. Comparison of the flood footprint (left) and depths (right) reached due to the DANA 2024 compared to what is expected for a return period of 500 years. (Source: Quart de Poblet; QCATI; Deliverable 2)</figcaption>
 </div>
 
-##### County Louth (Ireland)
+#### County Louth (Ireland)
 
 County Louth adopted a multi-threshold approach to represent different levels of rainfall-related impacts. Using official rainfall observations, historical event records and stakeholder information, the region established three rainfall thresholds for low, medium and high impact levels. Their relevance was assessed against documented impacts and past rainfall events.
 
@@ -44,7 +45,7 @@ The thresholds were then incorporated into the HRW to explore how rainfall condi
     <figcaption>Figure 2. Blackrock February 2026 (Source: County Louth; LCRAA; Deliverable 2).</figcaption>
 </div>
 
-##### Mersin (Turkey)
+#### Mersin (Türkiye)
 
 Mersin used historical precipitation observations and documented flood events to identify rainfall thresholds associated with different levels of potential impact. The study established four rainfall thresholds, each corresponding to a different impact category and baseline return period.
 
@@ -57,15 +58,15 @@ Mersin used historical precipitation observations and documented flood events to
 
 These thresholds were incorporated into the HRW to assess how the magnitude and frequency of rainfall conditions associated with different impact levels could evolve under future climate scenarios. Similar to County Louth, the application illustrates how impact-based severity categories can be connected to projected changes in extreme rainfall, supporting a more locally relevant interpretation of future climate conditions.
 
-### 2. Climate risk assessment using operational warning thresholds
+## 2. Climate risk assessment using operational warning thresholds
 
 Connecting rainfall thresholds to operational early warning requires aligning critical rainfall conditions with the timing, context and criteria of warning decisions. While the HRW assesses how critical rainfall conditions may change under future climate scenarios, operational warning systems also consider the timing, duration and spatial distribution of rainfall, together with local conditions that influence the hazard response.
 
 Depending on the local warning context, rainfall thresholds may be adapted to account for antecedent catchment conditions, different rainfall accumulation periods, or spatial variations in hazard and warning criteria. These approaches help connect rainfall information with the requirements of local warning systems and decision-making processes.
 
-#### Region Examples
+### Region Examples
 
-##### Valchiavenna (Italy)
+#### Valchiavenna (Italy)
 
 Valchiavenna applied the Equivalent Rainfall (Peq) method to incorporate antecedent catchment wetness into the assessment of operational rainfall thresholds. Based on a reformulation of the SCS-CN (Curve Number) model, the method uses rainfall accumulated over the previous five days to express forecast precipitation as an equivalent amount under dry-soil conditions.
 
@@ -75,15 +76,15 @@ This allows rainfall to be evaluated against established warning thresholds whil
     <figcaption>Figure 3. Homogenous alert zones of Valchiavenna from the regional Civil Protection system of Lombardy Region.(Source: Valchiavenna; CMV4Clima; Deliverable 2)</figcaption>
 </div>
 
-### 3. Translation of rainfall into hydrological, hydraulic or drainage outputs
+## 3. Translation of rainfall into hydrological, hydraulic or drainage outputs
 
 Projected changes in extreme rainfall can be combined with local infrastructure and terrain information to assess how urban areas may respond to future rainfall conditions. This pathway extends the assessment by connecting projected rainfall conditions with local drainage characteristics and design capacities, allowing regions to evaluate the adequacy of existing infrastructure under future climate conditions.
 
 Regional applications illustrate two complementary approaches: estimating the additional drainage capacity required under future rainfall conditions and mapping potential surface-water accumulation and inundation.
 
-#### Region Examples
+### Region Examples
 
-##### Viana do Castelo (Portugal)
+#### Viana do Castelo (Portugal)
 
 Viana do Castelo connected projected changes in extreme rainfall with existing drainage infrastructure and design capacity. The municipality combined EURO-CORDEX projections with local intensity–duration–frequency (IDF) curves and drainage design information to evaluate future infrastructure requirements.
 
@@ -93,7 +94,7 @@ The assessment also analysed 1,321 georeferenced historical incidents using DBSC
     <figcaption>Figure 4. Identification of the 10 critical rainfall hotspots through DBSCAN clustering of historical events in Viana do Castelo Municipality.(Source: Viana do Castelo; VC_Climax; Deliverable 2)</figcaption>
 </div>
 
-##### Länsstyrelsen Västernorrland (Sweden)
+#### Länsstyrelsen Västernorrland (Sweden)
 
 In Sundsvall, the assessment used officially adopted flood hazard maps to analyse the consequences of both river flooding from Selångersån and heavy rainfall. The maps show the extent and depth of flooding, including inundation during a 100-year rainfall event. By combining this information with data on population, infrastructure, land use and critical services, the assessment identified the areas and assets most exposed to flooding.
 
@@ -103,15 +104,15 @@ This approach connects extreme rainfall with its potential physical impacts and 
     <figcaption>Figure 5. Example of a cloudburst mapping (skyfallskartering) layer showing estimated water depths (m) in mapped low-point areas (lågpunkter). The map identifies enclosed low-lying areas where water may accumulate during extreme rainfall events and provides an indication of potential inundation depths.(Source: Länsstyrelsen Västernorrland; UVCRA-CLIMAAX; Deliverable 2)</figcaption>
 </div>
 
-### 4. Detailed exposure mapping and risk prioritisation
+## 4. Detailed exposure mapping and risk prioritisation
 
 Connecting projected changes in extreme rainfall with locally detailed exposure and vulnerability information helps identify people, infrastructure and essential services that may be affected. This pathway extends HRW assessments by incorporating spatial information on population distribution, mobility, buildings, critical facilities and service networks to better represent local risk conditions.
 
 The regional applications illustrate how more detailed exposure information can support the identification of vulnerable receptors, potential service disruptions and priority areas for risk management and adaptation.
 
-#### Region Examples
+### Region Examples
 
-##### Hegyvidék District (Hungary)
+#### Hegyvidék District (Hungary)
 
 Hegyvidék District incorporated high-resolution population mobility and essential-service information to refine its urban risk assessment. Aggregated telecommunications and GPS mobility data at 50 × 50 m resolution were combined with information on public transport, schools, healthcare, social-care facilities and other essential services.
 
@@ -121,7 +122,7 @@ These datasets were integrated with rainfall hazard and vulnerability indicators
     <figcaption>Figure 6. Heavy Rainfall Risk maps of Hegyvidék Municipality for the RCP4.5 scenario for the period 2041-2070. Red indicates high risk, green indicates low risk. (Source: Hegyvidék District; MARCAdapt; Deliverable 2)</figcaption>
 </div>
 
-##### St. Wendel District (Germany)
+#### St. Wendel District (Germany)
 
 St. Wendel combined local heavy-rainfall hazard maps with detailed spatial information on critical and social infrastructure, including care facilities, public administration, food supply and energy infrastructure.
 
@@ -131,7 +132,7 @@ The results help identify potentially vulnerable locations and support civil pro
     <figcaption>Figure 7. Heavy rainfall and care facilities (© IZES gGmbH) based on ESRI base map and (LVGL 2026). (Source: St. Wendel District; CliRAs - WND; Deliverable 2)</figcaption>
 </div>
 
-##### Southwest Finland (Finalnd)
+#### Southwest Finland (Finland)
 
 In Southwest Finland, the heavy rainfall assessment was linked to the location of key infrastructure and the region’s most populated municipalities. Hospitals and fire stations were mapped alongside projected changes in rainfall magnitude to identify areas where critical services could face increasing pressure. The analysis highlighted, for example, the area around Salo, where high projected precipitation increases coincide with a history of flooding.
 
@@ -143,7 +144,7 @@ This approach helps identify where changes in heavy rainfall may have greater co
 municipalities in Southwest Finland. Basemap: NLS. (Source: Southwest Finland; CLIVAS; Deliverable 2)</figcaption>
 </div>
 
-##### Tipperary County (Ireland)
+#### Tipperary County (Ireland)
 
 Tipperary extended its HRW assessment by combining projected rainfall conditions with high-resolution terrain analysis to map potential surface-water flooding across six settlements. The Phase 1 rainfall estimates were combined with LiDAR-derived Digital Elevation Models (DEMs), using terrain-analysis tools to identify flow directions, flow accumulation pathways and local depressions. The analysis covered six settlements: Cahir, Carrick-on-Suir, Cashel, Clonmel, Thurles and Tipperary.
 
@@ -154,15 +155,15 @@ The assessment compared a present-day 1-in-100-year rainfall event of 67 mm with
     <figcaption>Figure 9. Surface water flooding damage assessment for roads in Clonmel under 1‑in‑100‑year event in RCP8.5 by mid-century, showing the spatial distribution of inundated road segments and the estimated percentage damage derived fromflood depths and JRC depth–damage functions. (Source: Tipperary County; CLIMAAX Tipperary; Deliverable 2)</figcaption>
 </div>
 
-### 5. From extreme rainfall to secondary hazards
+## 5. From extreme rainfall to secondary hazards
 
 Extreme rainfall can trigger secondary hazards such as flash floods, river flooding and landslides, depending on local terrain, soil properties and catchment conditions. This pathway extends the HRW by connecting projected changes in extreme precipitation with the physical processes and environmental conditions that influence these hazards.
 
 Regional applications illustrate different approaches to this connection, including catchment-scale rainfall analysis, flood-susceptibility assessment and rainfall-induced landslide assessment. These approaches help translate climate projections into information relevant to local hazard assessment and risk management.
 
-#### Region Examples
+### Region Examples
 
-##### La Réunion (France)
+#### La Réunion (France)
 
 La Réunion developed a catchment-based rainfall assessment to support the analysis of torrential flooding across the island's mountainous terrain. The approach combined hourly precipitation from the high-resolution AROME-SWIO climate simulation (approximately 3 km) with a 25 m Digital Elevation Model (DEM).
 
@@ -173,7 +174,7 @@ Terrain analysis was used to derive flow directions, flow accumulation patterns 
     <figcaption>Figure 10. Example of catchment delineation (Riviere des Pluies) on eastern part of the Saint-Denis TRI. (Source: La Réunion; RISC RA; Deliverable 2)</figcaption>
 </div>
 
-##### Hopa (Türkiye)
+#### Hopa (Türkiye)
 
 Hopa is located in a mountainous area of northeastern Türkiye, where heavy rainfall has frequently triggered landslides. The assessment used records of past landslides to develop susceptibility maps based on terrain and environmental conditions. The analysis showed a strong link with extreme rainfall, as 221 of the 227 recorded landslide polygons were associated with the event of 24 August 2015, when 287.2 mm of rain fell in 24 hours.
 
